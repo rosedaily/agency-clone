@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "https://rosedaily.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "agency-clone" # the subpath of your site, e.g. /blog
+baseurl: "/agency-clone" # the subpath of your site, e.g. /blog
 
 title      : Rose Company
 email      : rosedaily101@gmail.com  #this is also the email contact forms will go to
