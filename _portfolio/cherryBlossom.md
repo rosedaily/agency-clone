@@ -1,13 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
+  title: 일본
+  subtitle: 해외
+  thumbnail: assets/img/portfolio/cb-3.jpg 
+  #보여지는 썸네일 이미지
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: 일본
+subtitle: 해외의 벚꽃명소는 일본입니다.
+image: assets/img/portfolio/cb-3.jpg 
+#클릭 시 모달로 보여지는 이미지
 alt: image alt text
 
 ---
